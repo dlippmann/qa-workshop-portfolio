@@ -1,2 +1,7 @@
 # qa-workshop-portfolio
-Semillero QA LVL 2 - David Lippmann
+
+Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
+Autor: [David Lippmann]
+Este repositorio contendrá los entregables desarrollados durante el workshop.
+## Estado actual
+Repositorio conectado y listo para comenzar el trabajo del portafolio.
