@@ -1,19 +1,18 @@
 # Product Overview
 ## Nombre del producto
-[Escribe el nombre del sistema o aplicación]
+petstore
 ## ¿Qué tipo de producto es?
-[Ejemplo: e-commerce, sistema bancario, sistema de reservas, API de mascotas, tienda online, 
-etc.]
+comercio electronico  de venta de mascotas
 ## ¿Qué problema resuelve?
-[Explica qué necesidad de negocio o del usuario intenta resolver]
+el usuario puede adquirir distintos tipos de mascotas desde donde esté
 ## ¿Cómo genera valor para el negocio?
-[Explica cómo ayuda a la empresa: vender más, reducir errores, mejorar experiencia, 
-automatizar un proceso, etc.]
+*permite el acceso de manera remota al usuario en todo momento, pudiendo generar ingresos por la venta de animales
+
 ## Usuarios principales
-- [Usuario 1]
-- [Usuario 2]
-- [Usuario 3]
+- clientes
+- administradores
+- personal de la empresa
 ## Funcionalidades principales
-- [Funcionalidad 1]
-- [Funcionalidad 2]
-- [Funcionalidad 3]
+- explorar catalogo
+- compra de animales y articulos
+- delivery a la ubicacion deseada del cliente 
